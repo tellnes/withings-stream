@@ -1,0 +1,27 @@
+{
+  "name": "withings-stream",
+  "version": "0.0.0",
+  "description": "withings-stream",
+  "main": "index.js",
+  "dependencies": {
+    "withings-request": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/withings-stream.git"
+  },
+  "keywords": [
+    "withings",
+    "fitness",
+    "measures",
+    "stream"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tellnes/withings-stream/issues"
+  },
+  "homepage": "https://github.com/tellnes/withings-stream"
+}
